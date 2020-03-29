@@ -8,7 +8,7 @@
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
-    <b>Language: java c++ c</b>
+    <b>Language: java c++</b>
     <br>
     <b>Last updated: 2020-03-29</b>
     <br><br>
